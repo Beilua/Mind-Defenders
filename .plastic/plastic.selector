@@ -1,0 +1,4 @@
+repository "Mind Defenders/Mind Defenders@18968480749667@cloud"
+  path "/"
+    br "/main"
+    co "/main"

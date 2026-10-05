@@ -1,0 +1,12 @@
+# ninja log v5
+39	568	1786984179157383978	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	9486b9525a5870a1
+570	833	1786984179405893171	/home/beilua/Mind Defenders/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/531d4b55/obj/arm64-v8a/libswappywrapper.so	4865bb1054de9eb6
+21	4112	1786984182685440300	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	dfe18f717dc35a39
+1	4121	1786984182689554432	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	bd98f30177cef742
+29	4220	1786984182789295842	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	c73b959d38ead5a6
+12	4252	1786984182824070034	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	ebe878c97d31f857
+5	5054	1786984183620651116	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	8464a18ebc29a447
+22	5098	1786984183673980539	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	78213bbc4d0df5bd
+14	5313	1786984183882651581	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	499deb0cd29c936f
+0	6296	1786984184868020326	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	31b8448c751e0d64
+6296	6361	1786984184949340105	/home/beilua/Mind Defenders/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/531d4b55/obj/arm64-v8a/libgame.so	6ca5edb6e973a255

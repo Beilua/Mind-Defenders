@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 037a2ef6659b321d496a5c47c5d4b95b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fairySpeechText: {instanceID: 0}
+  - journalInputField: {instanceID: 0}
+  - choiceContainer: {instanceID: 0}
+  - choice1Button: {instanceID: 0}
+  - choice2Button: {instanceID: 0}
+  - choice3Button: {instanceID: 0}
+  - choice1Text: {instanceID: 0}
+  - choice2Text: {instanceID: 0}
+  - choice3Text: {instanceID: 0}
+  - defaultButtonSprite: {fileID: 5083642616429109250, guid: f73343c29271e6badbd3636acf518bf3, type: 3}
+  - selectedButtonSprite: {fileID: 8779757653686099654, guid: fb67a92ba98e699608dec5e72c004b18, type: 3}
+  - journalContainer: {instanceID: 0}
+  - battleContainer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

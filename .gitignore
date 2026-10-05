@@ -1,0 +1,35 @@
+# Unity auto-generated cache folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Ob]j/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]serSettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# VS Code / Visual Studio / Rider IDE files
+/.vs/
+/.idea/
+/*.csproj
+/*.sln
+/*.unityproj
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.svd
+/*.pdb
+/*.opendb
+/*.db
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Executables & Builds inside the root directory
+*.apk
+*.aab
+*.unitypackage
